@@ -69,6 +69,8 @@ acestream://42e83c337ece0af9ca7808859f84c7960e9cb6f5
 acestream://b1e5abc48195b7ca9b2ee1b352e790eb9f7292e3
 #EXTINF: -1 tvg-id="M+ #VAMOSHD" tvg-name="#Vamos 1080" tvg-chno="35" tvg-logo="https://i.ibb.co/dgqH0nP/Vamos.jpg" group-title="Movistar +", #Vamos 1080
 acestream://859bb6295b8d0f224224d3063d9db7cdeca03122
+#EXTINF: -1 tvg-id="M+ PLUS" tvg-name="M. PLUS" tvg-chno="35" tvg-logo="https://i.ibb.co/dgqH0nP/Vamos.jpg" group-title="Movistar +", M. PLUS+
+acestream://c1ee6e1e0ef5928d8261f855c417de21794f437d
 #EXTINF: -1 tvg-id="#VAMOS" tvg-name="#Vamos 720" tvg-chno="34" tvg-logo="https://i.ibb.co/dgqH0nP/Vamos.jpg" group-title="Movistar +", #Vamos 720
 acestream://0e18315b703248bb01eab6b9d3f0cb2cd893601f
 #EXTINF: -1 tvg-id="DAZN 1" tvg-name="DAZN1" tvg-logo="https://i.ibb.co/NZjMkfL/DAZN1.jpg" group-title="DAZN", DAZN 1 1080
