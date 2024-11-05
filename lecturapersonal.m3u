@@ -1,8 +1,10 @@
 #EXTM3U
 #EXTINF: -1 tvg-id="M+ LaLiga UHD" tvg-name="Movistar LaLiga UHD MultiAudio" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mll.png" group-title="Movistar Deportes", Movistar LaLiga UHD MultiAudio
 acestream://dce1579e3a2e5bd29071fca8eae364f1eb3205cf
-#EXTINF: -1 tvg-id="M+ LaLiga UHD" tvg-name="Movistar LaLiga UHD MultiAudio" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mll.png" group-title="Movistar Deportes", Movistar LaLiga UHD MultiAudio
+#EXTINF: -1 tvg-id="M+ LaLiga UHD" tvg-name="Movistar LaLiga UHD MultiAudio" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mll.png" group-title="Movistar Deportes", Movistar Laliga UHD MultiAudio
 acestream://8286183314d367940409b760bbf887f3fb923f60
+#EXTINF: -1 tvg-id="M+ LaLiga UHD" tvg-name="LaLiga TV BAR" tvg-logo="https://www.google.com/search?client=ms-android-oneplus-rvo3&sca_esv=a7c913f82c66ba60&sxsrf=ADLYWILfkwnpl3gPyTZUo87tgFHLnxlR5A:1730836552007&q=laliga+tv+bar&udm=2&fbs=AEQNm0CbCVgAZ5mWEJDg6aoPVcBgWizR0-0aFOH11Sb5tlNhdzvguW7TJ8ZJj4v-NOGupFi1hc3IvVU_cUXWfj3GB6RtAll4xZATrR_HWkc3FVaSsGNaFrhvG99AqcM3JPsnF6ibZ90UYC5hh_iBu2GJ-iDcS2o-BiLlkRP0tL4Pm3Eflb4eRUNTT8VQv2e3VNc7UMiS9hgoG5rEPwynW66GfTaDb4S-RA&sa=X&ved=2ahUKEwjtouLO_MWJAxVXS_EDHR_UE24QtKgLegQIFhAB&biw=412&bih=811&dpr=3.5#vhid=SR57fb2yrIMiUM&vssid=mosaic" group-title="Movistar Deportes", LaLiga TV
+acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280
 #EXTINF: -1 tvg-id="M+ LaLiga HD" tvg-name="Movistar LaLiga 1080 MultiAudio" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mll.png" group-title="Movistar Deportes", Movistar LaLiga 1080 MultiAudio
 acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f
 #EXTINF: -1 tvg-id="M+ LaLiga HD" tvg-name="Movistar LaLiga 1080 MultiAudio" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mll.png" group-title="Movistar Deportes", Movistar LaLiga 1080 MultiAudio
