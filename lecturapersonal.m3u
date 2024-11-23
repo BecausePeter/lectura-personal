@@ -3,22 +3,24 @@
 acestream://dce1579e3a2e5bd29071fca8eae364f1eb3205cf
 #EXTINF: -1 tvg-id="M+ LaLiga UHD" tvg-name="Movistar LaLiga UHD MultiAudio" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mll.png" group-title="Movistar Deportes", Movistar Laliga UHD MultiAudio
 acestream://8286183314d367940409b760bbf887f3fb923f60
-#EXTINF: -1 tvg-id="M+ LaLiga UHD" tvg-name="LaLiga TV BAR" tvg-logo="https://www.google.com/search?client=ms-android-oneplus-rvo3&sca_esv=a7c913f82c66ba60&sxsrf=ADLYWILfkwnpl3gPyTZUo87tgFHLnxlR5A:1730836552007&q=laliga+tv+bar&udm=2&fbs=AEQNm0CbCVgAZ5mWEJDg6aoPVcBgWizR0-0aFOH11Sb5tlNhdzvguW7TJ8ZJj4v-NOGupFi1hc3IvVU_cUXWfj3GB6RtAll4xZATrR_HWkc3FVaSsGNaFrhvG99AqcM3JPsnF6ibZ90UYC5hh_iBu2GJ-iDcS2o-BiLlkRP0tL4Pm3Eflb4eRUNTT8VQv2e3VNc7UMiS9hgoG5rEPwynW66GfTaDb4S-RA&sa=X&ved=2ahUKEwjtouLO_MWJAxVXS_EDHR_UE24QtKgLegQIFhAB&biw=412&bih=811&dpr=3.5#vhid=SR57fb2yrIMiUM&vssid=mosaic" group-title="Movistar Deportes", LaLiga TV
-acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280
+#EXTINF: -1 tvg-id="LALIGA TV BAR" tvg-name="LaLiga TV BAR" tvg-logo="https://play-lh.googleusercontent.com/FsAXW-cIAcTHdMV1I37Yn-7j6UGYm1CSaiZL-Nl-nwAVCYdHe5NUIUxb7LSGm3c6Hze8" group-title="Movistar Deportes", LaLiga TV BAR
+acestream://608b0faf7d3d25f6fe5dba13d5e4b4142949990e
+#EXTINF: -1 tvg-id="LALIGA TV BAR" tvg-name="LaLiga TV BAR" tvg-logo="https://play-lh.googleusercontent.com/FsAXW-cIAcTHdMV1I37Yn-7j6UGYm1CSaiZL-Nl-nwAVCYdHe5NUIUxb7LSGm3c6Hze8" group-title="Movistar Deportes", LaLiga TV BAR
+acestream://94d34491106e00394835c8cb68aa94481339b53f
 #EXTINF: -1 tvg-id="M+ LaLiga HD" tvg-name="Movistar LaLiga 1080 MultiAudio" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mll.png" group-title="Movistar Deportes", Movistar LaLiga 1080 MultiAudio
-acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f
+acestream://d3de78aebe544611a2347f54d5796bd87f16c92d
 #EXTINF: -1 tvg-id="M+ LaLiga HD" tvg-name="Movistar LaLiga 1080 MultiAudio" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mll.png" group-title="Movistar Deportes", Movistar LaLiga 1080 MultiAudio
-acestream://1969c27658d4c8333ab2c0670802546121a774a5
+acestream://6d05b31e5e8fdae312fbd57897363a7b10ddb163
 #EXTINF: -1 tvg-id="M+ LaLiga HD" tvg-name="Movistar LaLiga 1080 MultiAudio" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mll.png" group-title="Movistar Deportes", Movistar LaLiga 1080
-acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280
+acestream://94d34491106e00394835c8cb68aa94481339b53f
 #EXTINF: -1 tvg-id="M+ LaLiga HD" tvg-name="Movistar LaLiga 720" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mll.png" group-title="Movistar Deportes", Movistar LaLiga 720
-acestream://f031f5728b32f6089dda28edebe990cf198108d8
+acestream://1bc437bce57b4b0450f6d1f8d818b7e97000745e
 #EXTINF: -1 tvg-id="MovistarLaLiga2.es" tvg-name="Movistar LaLiga 2 1080" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mll.png" group-title="Movistar Deportes", Movistar LaLiga 2 1080
-acestream://26029f72a4ca831d09deefe89534818db1d105bc
+acestream://83c6c4942d69f4aa324aa746c5d7dbfd7d1572b3
 #EXTINF: -1 tvg-id="MovistarLaLiga2.es" tvg-name="Movistar LaLiga 2 720" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mll.png" group-title="Movistar Deportes", Movistar LaLiga 2 720
-acestream://80126b240f3e4e004754fd8f8103e857ab2556a0
+acestream://f31a586422c9244196c810c84b6c85da350318a5
 #EXTINF: -1 tvg-id="MovistarLaLiga2.es" tvg-name="Movistar LaLiga 3 1080" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mll.png" group-title="Movistar Deportes", Movistar LaLiga 3 1080
-acestream://4c4844564313e39a888f593511f299f5ba3cf929
+acestream://ebe14f1edeb49f2253e3b355a8beeadc9b4f0bc4
 #EXTINF: -1 tvg-id="DAZN LaLigaHD" tvg-name="DAZN LaLiga 1080 multiaudio" tvg-logo="https://i.ibb.co/d541mDr/DAZN-La-Liga.jpg" group-title="DAZN", DAZN LaLiga 1080 multiaudio
 acestream://110d441ddc9713a7452588770d2bc85504672f47
 #EXTINF: -1 tvg-id="DAZN LaLigaHD" tvg-name="DAZN LaLiga 1080" tvg-logo="https://i.ibb.co/d541mDr/DAZN-La-Liga.jpg" group-title="DAZN", DAZN LaLiga 1080
@@ -36,27 +38,29 @@ acestream://c021e3af42b9cd3743817a2c6258e0986666dd73
 #EXTINF: -1 tvg-id="DAZN F1 UHD" tvg-name="DAZN F1 UHD" tvg-logo="https://i.ibb.co/wKHbyS8/DAZNF1.jpg" group-title="DAZN", DAZN F1 UHD
 acestream://6b94479c24898700089e6b87d28a3ccc72dc4041
 #EXTINF: -1 tvg-id="DAZN F1 HD" tvg-name="DAZN F1 1080" tvg-logo="https://i.ibb.co/wKHbyS8/DAZNF1.jpg" group-title="DAZN", DAZN F1 1080
-acestream://5789ca155323664edd293b848606688edf803f4d
+acestream://d6281d4e6310269b416180442a470d23a4a99dc9
 #EXTINF: -1 tvg-id="DAZN F1 HD" tvg-name="DAZN F1 1080" tvg-logo="https://i.ibb.co/wKHbyS8/DAZNF1.jpg" group-title="DAZN", DAZN F1 1080 opcion 2
-acestream://9dad717d99b29a05672166258a77c25b57713dd5
+acestream://2c6e4c897661e6b0257bfe931b66d20b2ec763b6
+#EXTINF: -1 tvg-id="DAZN F1 HD" tvg-name="DAZN F1 1080" tvg-logo="https://i.ibb.co/wKHbyS8/DAZNF1.jpg" group-title="DAZN", DAZN F1 1080 opcion 2
+acestream://71eef80158aa8b37f3dc59f6793c6696df9a2dfa
 #EXTINF: -1 tvg-id="DAZN F1 HD" tvg-name="DAZN F1 720" tvg-logo="https://i.ibb.co/wKHbyS8/DAZNF1.jpg" group-title="DAZN", DAZN F1 720
-acestream://e1fcad9de0c782c157fde6377805c58297ab65c2
+acestream://268289e7a3c5209960b53b4d43c8c65fab294b85
 #EXTINF: -1 tvg-id="M+LCAMPEONES" tvg-name="Liga de Campeones - 1080 MultiAudio" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc.png" group-title="Movistar Deportes", Liga de Campeones - 1080 MultiAudio
-acestream://931b1984badcb821df7b47a66ac0835ac871b51c
+acestream://0a26e20f39845e928411e09a124374fccb6e1478
 #EXTINF: -1 tvg-id="M+LCAMPEONES" tvg-name="M.L. Campeones 1080 MultiAudio" tvg-logo="https://i.ibb.co/5KjsjJW/Campeones.jpg" group-title="Movistar Deportes", M.L. Campeones 1080 MultiAudio
-acestream://f096a64dd756a6d549aa7b12ee9acf7eee27e833
+acestream://775abd8697715c48a357906d40734ccd2a10513c
 #EXTINF: -1 tvg-id="M+LCAMPEONES" tvg-name="Liga de Campeones - 1080" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc.png" group-title="Movistar Deportes", Liga de Campeones - 1080
 acestream://1d79a7543d691666135669f89f3541f54e2dd0a9
 #EXTINF: -1 tvg-id="M+LCAMPEONES" tvg-name="Liga de campeones - 720" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc.png" group-title="Movistar Deportes", Liga de campeones - 720
-acestream://e2e2aca792aae5da19995ac516b1d620531bd49c
+acestream://8edb264520569b2280c5e86b2dc734e120032903
 #EXTINF: -1 tvg-id="M+ Liga de Campeones 2 HD" tvg-name="Liga de Campeones 02 - 1080" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc2.png" group-title="Movistar Deportes", Liga de Campeones 02 - 1080
-acestream://fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393
+acestream://c070cdb701fc46bb79d17568d99fc64620443d63
 #EXTINF: -1 tvg-id="M+ Liga de Campeones 3 HD" tvg-name="Liga de Campeones 03 - 1080" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc3.png" group-title="Movistar Deportes", Liga de Campeones 03 - 1080
-acestream://ad372cba73aa0ece207a79532b3e30b731136bb2
+acestream://3618edda333dad5374ac2c801f5f14483934b97d
 #EXTINF: -1 tvg-id="M+LCAMPEON3" tvg-name="M.L. Campeones 3 720" tvg-logo="https://i.ibb.co/5KjsjJW/Campeones.jpg" group-title="Movistar Deportes", M.L. Campeones 3 720
 acestream://d59fe9978eed49f256b312a60671b5bce43d3f24
 #EXTINF: -1 tvg-id="M+ Liga de Campeones 4" tvg-name="M.L. Campeones 4 1080" tvg-logo="https://i.ibb.co/5KjsjJW/Campeones.jpg" group-title="Movistar Deportes", M.L. Campeones 4 1080
-acestream://1b48d5881337c87b89e1edefff6688fe2271d222
+acestream://65a18a6bd83918a9586b673fec12405aaf4e9f7d
 #EXTINF: -1 tvg-id="M+DEPORTESHD" tvg-name="M. Deportes 1080" tvg-logo="https://i.ibb.co/pQDH7Xz/Deportes.jpg" group-title="Movistar Deportes", M. Deportes 1080
 acestream://55d4602cb22b0d8a33c10c2c2f42dae64a9e8895
 #EXTINF: -1 tvg-id="M. DEPORTES" tvg-name="M. Deportes 720" tvg-logo="https://i.ibb.co/pQDH7Xz/Deportes.jpg" group-title="Movistar Deportes", M. Deportes 720
@@ -109,14 +113,14 @@ http://angeltv.biz:6969/jessica/jessica/1258
 http://angeltv.biz:6969/jessica/jessica/86686
 #EXTINF: -1 tvg-chno="2243" group-title="Internacional", ▃ ▅ ▆ █  NBA FEED 2 █ ▆ ▅ ▃
 http://angeltv.biz:6969/jessica/jessica/86687
-#EXTINF: -1 tvg-id="M+LCAMPEON5" tvg-name="M.L. Campeones 5 SD" tvg-logo="https://i.ibb.co/5KjsjJW/Campeones.jpg" group-title="Movistar Deportes", M.L. Campeones 5 SD
-acestream://4b4a77f005ea45e57276ff9d90c3830b3c59010d
-#EXTINF: -1 tvg-id="M+LCAMPEON6" tvg-name="M.L. Campeones 6 SD" tvg-logo="https://i.ibb.co/5KjsjJW/Campeones.jpg" group-title="Movistar Deportes", M.L. Campeones 6 SD
-acestream://e9950ec551124c490ecbc2526a83d2c5a4516293
-#EXTINF: -1 tvg-id="M+LCAMPEON7" tvg-name="M.L. Campeones 7 SD" tvg-logo="https://i.ibb.co/5KjsjJW/Campeones.jpg" group-title="Movistar Deportes", M.L. Campeones 7 SD
-acestream://d84a90adb6998083403f610ab3fae340b5711b1e
-#EXTINF: -1 tvg-id="M.LCAMPEON8" tvg-name="M.L. Campeones 8 SD" tvg-logo="https://i.ibb.co/5KjsjJW/Campeones.jpg" group-title="Movistar Deportes", M.L. Campeones 8 SD
-acestream://fdd9e3660059051660dbd7857443c2b807f258d0
+#EXTINF: -1 tvg-id="M+LCAMPEON5" tvg-name="M.L. Campeones 5 SD" tvg-logo="https://i.ibb.co/5KjsjJW/Campeones.jpg" group-title="Movistar Deportes", M.L. Campeones 5 1080
+acestream://11744c25a594e17d587ed0871fe40ff21b4bd1e0
+#EXTINF: -1 tvg-id="M+LCAMPEON6" tvg-name="M.L. Campeones 6 SD" tvg-logo="https://i.ibb.co/5KjsjJW/Campeones.jpg" group-title="Movistar Deportes", M.L. Campeones 6 1080
+acestream://fdda1f0dd8c33fbdc5a66ab98e291f570cae67cd
+#EXTINF: -1 tvg-id="M+LCAMPEON7" tvg-name="M.L. Campeones 7 SD" tvg-logo="https://i.ibb.co/5KjsjJW/Campeones.jpg" group-title="Movistar Deportes", M.L. Campeones 7 1080
+acestream://b7f47db93dced60f54e8f89e2366ed061b534049
+#EXTINF: -1 tvg-id="M.LCAMPEON8" tvg-name="M.L. Campeones 8 SD" tvg-logo="https://i.ibb.co/5KjsjJW/Campeones.jpg" group-title="Movistar Deportes", M.L. Campeones 8 1080
+acestream://d298c6e5c8be71f5995b45289c6388b225318b3c
 #EXTINF: -1 tvg-id="M+ Liga de Campeones 9" tvg-name="M.L. Campeones 9 SD" tvg-logo="https://i.ibb.co/5KjsjJW/Campeones.jpg" group-title="Movistar Deportes", M.L. Campeones 9 SD
 acestream://69c95dc47b35dde559a6ef025c1b91c89646a17f
 #EXTINF: -1 tvg-id="M+ Liga de Campeones 10" tvg-name="M.L. Campeones 10 SD" tvg-logo="https://i.ibb.co/5KjsjJW/Campeones.jpg" group-title="Movistar Deportes", M.L. Campeones 10 SD
